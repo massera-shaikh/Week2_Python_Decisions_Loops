@@ -1,0 +1,4 @@
+Name: Ali, Marks: 95 → Grade A
+Name: Sara, Marks: 82 → Grade B
+Name: Riya, Marks: 68 → Grade D
+Name: Tom, Marks: 45 → Grade F
